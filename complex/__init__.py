@@ -1,1 +1,1 @@
-from .complex import ComplexNumber
+from .complex import ComplexNumber # noqa F401

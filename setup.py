@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup, find_packages  # noqa D100
 setup(
     name="bad-PEP",
     version="0.1",
